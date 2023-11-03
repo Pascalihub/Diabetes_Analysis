@@ -5,12 +5,12 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "studentPerformance"
+project_name = "diabetes"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
-    f"src/{project_name}/conponents/__init__.py",
+    f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/common.py",
     f"src/{project_name}/exception/__init__.py",
@@ -23,6 +23,7 @@ list_of_files = [
     "config/config.yaml",
     "params.yaml",
     "app.py",
+    "dvc.yaml",
     "main.py",
     "Dockerfile",
     "requirements.txt",
@@ -47,7 +48,6 @@ for filepath in list_of_files:
             logging.info(f"Creating empty file: {filepath}")
 
 
-    
     else:
         logging.info(f"{filename} is already exists")
 

@@ -12,7 +12,6 @@ SRC_REPO = "studentPerformance"
 AUTHOR_EMAIL = "pascaltj2521@gmail.com"
 
 
-
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,

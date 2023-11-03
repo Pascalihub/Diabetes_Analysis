@@ -1,0 +1,47 @@
+[2023-11-03 04:11:46,650: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-03 04:11:46,657: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-03 04:11:46,662: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-03 04:11:46,662: INFO: common: created directory at: artifacts]
+[2023-11-03 04:11:46,666: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-03 04:13:12,370: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-03 04:13:12,375: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-03 04:13:12,387: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-03 04:13:12,415: INFO: common: created directory at: artifacts]
+[2023-11-03 04:13:12,417: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-03 04:13:14,090: INFO: 456061477: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 8936
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "24eabc2b76d65677b76bf6d429485d8ef4fe82f4e6b9ebff3127a1bcad75a856"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 148C:5A1E:2F945:3A120:6544D5C5
+Accept-Ranges: bytes
+Date: Fri, 03 Nov 2023 11:13:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10538-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1699009989.443713,VS0,VE217
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b5904843589369136de2dfc0e0eadb6f729003f4
+Expires: Fri, 03 Nov 2023 11:18:09 GMT
+Source-Age: 0
+
+]
+[2023-11-03 04:31:37,508: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-03 04:31:37,509: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-03 04:31:37,522: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-03 04:31:37,524: INFO: common: created directory at: artifacts]
+[2023-11-03 04:31:37,525: INFO: common: created directory at: artifacts/data_validation]
+[2023-11-03 04:36:11,990: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-03 04:36:11,993: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-03 04:36:11,997: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-03 04:36:12,000: INFO: common: created directory at: artifacts]
+[2023-11-03 04:36:12,002: INFO: common: created directory at: artifacts/data_validation]
