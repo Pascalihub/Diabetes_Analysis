@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PASCAL/Diabetes/mlruns/0/25449b019c234d18bab45b012e569749/artifacts
+end_time: 1699061312492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25449b019c234d18bab45b012e569749
+run_name: clean-vole-920
+run_uuid: 25449b019c234d18bab45b012e569749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699061312391
+status: 4
+tags: []
+user_id: PASCAL

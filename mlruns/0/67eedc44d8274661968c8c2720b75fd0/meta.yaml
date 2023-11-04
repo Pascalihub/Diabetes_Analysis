@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PASCAL/Diabetes/mlruns/0/67eedc44d8274661968c8c2720b75fd0/artifacts
+end_time: 1699062114929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67eedc44d8274661968c8c2720b75fd0
+run_name: amazing-fowl-251
+run_uuid: 67eedc44d8274661968c8c2720b75fd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699062109857
+status: 3
+tags: []
+user_id: PASCAL
